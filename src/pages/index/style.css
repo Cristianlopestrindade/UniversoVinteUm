@@ -95,3 +95,7 @@ footer {
   font-weight: 600;
 }
 
+body {
+
+    background-image: linear-gradient(to bottom right, #ffffff, #f0f0f0);
+}
